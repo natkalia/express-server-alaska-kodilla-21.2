@@ -6,9 +6,17 @@ Includes:
 * middleware handling incorrent urls (using 404 message), 
 * middleware stopping user from getting to forbidden endpoints before login (just middleware, no real auth code)
 
+## Screens
+
+Too simple to create screenshots :smile:
+
 ## Technologies
 
 * Express.js
+
+## Installation
+
+Download / clone project and run `yarn add` or `npm i` in your console.
 
 ## Running locally
 
